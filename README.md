@@ -3,14 +3,8 @@
 ## 👥 Team
 
 **Team Name:** Dominator  
-**Team Lead:** Abilash Aruva  
 
 
----
-
-
-
----
 
 ## 📌 About the Project
 
